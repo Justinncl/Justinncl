@@ -13,7 +13,7 @@
   <a href="https://instagram.com/justinncl_" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
-  <a href="https://linkedin.com/in/justinchristopherlim" target="_blank">
+  <a href="https://www.linkedin.com/in/justin-christopher-lim-9783762b6/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:justinnn.chrislim@gmail.com" target="_blank">
