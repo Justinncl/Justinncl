@@ -26,7 +26,7 @@
   
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer" style="text-decoration:none;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
 <a href="https://www.apachefriends.org/index.html" target="_blank" rel="noreferrer" style="text-decoration:none;"><img src="https://www.apachefriends.org/images/xampp-logo-ac950edf.svg" alt="XAMPP" width="40" height="40"/></a>
-<a href="https://www.vmware.com/products/workstation-pro.html" target="_blank" rel="noreferrer" style="text-decoration:none;"><img src="https://cdn.simpleicons.org/vmware/607078" alt="VMware Workstation" width="40" height="40"/></a>
+<a href="https://www.vmware.com/products/workstation-pro.html" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/9/91/VMware_Workstation_Player_Icon.png" alt="VMware Workstation Logo" width="40" height="40" /></a>
 <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer" style="text-decoration:none;"><img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/></a>
 <a href="https://hive.apache.org/" target="_blank" rel="noreferrer" style="text-decoration:none;"><img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" alt="hive" width="40" height="40"/></a>
 <a href="https://www.php.net" target="_blank" rel="noreferrer" style="text-decoration:none;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/></a>
