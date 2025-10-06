@@ -25,26 +25,27 @@
 
 <div align="center">
 
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="48" height="48"/>](https://www.mysql.com/)
-[<img src="https://www.apachefriends.org/images/xampp-logo-ac950edf.svg" alt="XAMPP" width="48" height="48"/>](https://www.apachefriends.org/index.html)
-[<img src="https://upload.wikimedia.org/wikipedia/commons/9/91/VMware_Workstation_Player_Icon.png" alt="VMware Workstation" width="48" height="48"/>](https://www.vmware.com/products/workstation-pro.html)
-[<img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="Hadoop" width="48" height="48"/>](https://hadoop.apache.org/)
-[<img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" alt="Hive" width="48" height="48"/>](https://hive.apache.org/)
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="R" width="48" height="48"/>](https://www.r-project.org/)
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="48" height="48"/>](https://code.visualstudio.com/)
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter" width="48" height="48"/>](https://jupyter.org/)
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="48" height="48"/>](https://www.python.org/)
-[<img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="Tableau" width="42" height="42" style="margin:3px;"/>](https://www.tableau.com/)
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="48" height="48"/>](https://www.java.com/)
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eclipse/eclipse-original.svg" alt="Eclipse" width="48" height="48"/>](https://www.eclipse.org/)
-[<img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" alt="C Programming" width="48" height="48"/>](https://en.wikipedia.org/wiki/C_(programming_language))
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="48" height="48"/>](https://www.w3.org/html/)
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="48" height="48"/>](https://www.w3schools.com/css/)
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="42" height="42" style="margin:3px;"/>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="48" height="48"/>](https://www.figma.com/)
-[<img src="https://cdn.simpleicons.org/cisco/1BA0D7" alt="Cisco Packet Tracer" width="48" height="48"/>](https://www.netacad.com/courses/packet-tracer)
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="48" height="48"/>
+<img src="https://www.apachefriends.org/images/xampp-logo-ac950edf.svg" alt="XAMPP" width="48" height="48"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/91/VMware_Workstation_Player_Icon.png" alt="VMware Workstation" width="48" height="48"/>
+<img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="Hadoop" width="48" height="48"/>
+<img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" alt="Hive" width="48" height="48"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="R" width="48" height="48"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="48" height="48"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter" width="48" height="48"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="48" height="48"/>
+<img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="Tableau" width="42" height="42" style="margin:3px;"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="48" height="48"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eclipse/eclipse-original.svg" alt="Eclipse" width="48" height="48"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" alt="C Programming" width="48" height="48"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="48" height="48"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="48" height="48"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="42" height="42" style="margin:3px;"/>
+<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="48" height="48"/>
+<img src="https://cdn.simpleicons.org/cisco/1BA0D7" alt="Cisco Packet Tracer" width="48" height="48"/>
 
 </div>
+
 
 
 
