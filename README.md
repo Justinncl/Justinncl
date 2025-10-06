@@ -22,29 +22,31 @@
 </p>
 
 <h3 align="center">Languages and Tools utilized:</h3>
-<div align="center"> 
-  
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer" style="text-decoration:none;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
-<a href="https://www.apachefriends.org/index.html" target="_blank" rel="noreferrer" style="text-decoration:none;"><img src="https://www.apachefriends.org/images/xampp-logo-ac950edf.svg" alt="XAMPP" width="40" height="40"/></a>
-<a href="https://www.vmware.com/products/workstation-pro.html" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/9/91/VMware_Workstation_Player_Icon.png" alt="VMware Workstation Logo" width="40" height="40" /></a>
-<a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer" style="text-decoration:none;"><img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/></a>
-<a href="https://hive.apache.org/" target="_blank" rel="noreferrer" style="text-decoration:none;"><img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" alt="hive" width="40" height="40"/></a>
-<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer" style="text-decoration:none;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="Visual Studio Code" width="40" height="40"/></a>
-<a href="https://jupyter.org/" target="_blank" rel="noreferrer" style="text-decoration:none;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter Notebook" width="40" height="40"/></a>
-<a href="https://www.python.org" target="_blank" rel="noreferrer" style="text-decoration:none;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
-<a href="https://www.tableau.com/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="Tableau" width="40" height="40"/></a>
-<a href="#" target="_blank" rel="noreferrer"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdAx5hTJjeIWJA7pmVzHinb2xC_GDI7OqCjw&s" alt="Custom Logo" width="40" height="40"/></a>
-<a href="https://www.java.com" target="_blank" rel="noreferrer" style="text-decoration:none;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
-<a href="https://www.eclipse.org/" target="_blank" rel="noreferrer" style="text-decoration:none;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eclipse/eclipse-original.svg" alt="Eclipse IDE" width="40" height="40"/></a>
-<a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" rel="noreferrer" style="text-decoration:none;"><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" alt="C Programming Language" width="40" height="40"/></a>
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer" style="text-decoration:none;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer" style="text-decoration:none;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" style="text-decoration:none;"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript" width="40" height="40"/></a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer" style="text-decoration:none;"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a>
-<a href="https://www.netacad.com/courses/packet-tracer" target="_blank" rel="noreferrer" style="text-decoration:none;"><img src="https://cdn.simpleicons.org/cisco/1BA0D7" alt="Cisco Packet Tracer" width="40" height="40"/></a>
 
+<div align="center">
+
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="48" height="48"/>](https://www.mysql.com/)
+[<img src="https://www.apachefriends.org/images/xampp-logo-ac950edf.svg" alt="XAMPP" width="48" height="48"/>](https://www.apachefriends.org/index.html)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/9/91/VMware_Workstation_Player_Icon.png" alt="VMware Workstation" width="48" height="48"/>](https://www.vmware.com/products/workstation-pro.html)
+[<img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="Hadoop" width="48" height="48"/>](https://hadoop.apache.org/)
+[<img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" alt="Hive" width="48" height="48"/>](https://hive.apache.org/)
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="R" width="48" height="48"/>](https://www.r-project.org/)
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="48" height="48"/>](https://code.visualstudio.com/)
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter" width="48" height="48"/>](https://jupyter.org/)
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="48" height="48"/>](https://www.python.org/)
+[<img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="Tableau" width="42" height="42" style="margin:3px;"/>](https://www.tableau.com/)
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="48" height="48"/>](https://www.java.com/)
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eclipse/eclipse-original.svg" alt="Eclipse" width="48" height="48"/>](https://www.eclipse.org/)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" alt="C Programming" width="48" height="48"/>](https://en.wikipedia.org/wiki/C_(programming_language))
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="48" height="48"/>](https://www.w3.org/html/)
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="48" height="48"/>](https://www.w3schools.com/css/)
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="42" height="42" style="margin:3px;"/>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="48" height="48"/>](https://www.figma.com/)
+[<img src="https://cdn.simpleicons.org/cisco/1BA0D7" alt="Cisco Packet Tracer" width="48" height="48"/>](https://www.netacad.com/courses/packet-tracer)
 
 </div>
+
+
 
 <br>
 
