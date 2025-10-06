@@ -7,7 +7,7 @@
 
 <h3 align="center"> 🔎Data Analyst, Data Engineer🔧</h3>
 
-<p align="center">I'm a Computer Science undergraduate currently majoring in Databases at BINUS University @Alam Sutera.I have a strong passion for data related coursework such as Data Analysis, Data Management, Data Engineering, Data Mining, and Big Data . My main goals include learning new things & adapting to new situations, challenges, and opportunities along the journey to improve myself and lend a helping hand. </p>
+<p align="center">I'm a Computer Science undergraduate currently streaming in Databases at BINUS University @Alam Sutera.I have a strong passion for data related coursework such as Data Analysis, Data Management, Data Engineering, Data Mining, and Big Data . My main goals include learning new things & adapting to new situations, challenges, and opportunities along the journey to improve myself and lend a helping hand. </p>
 
 <p align="center">
   <a href="https://instagram.com/justinncl_" target="_blank">
